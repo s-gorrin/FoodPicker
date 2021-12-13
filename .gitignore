@@ -1,0 +1,8 @@
+# ignore food files
+*.txt
+
+# ignore prompt
+*.pdf
+
+# pychache
+__pycache__
