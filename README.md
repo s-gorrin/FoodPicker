@@ -7,5 +7,7 @@ Populate them with foods you cook and restaurants you eat at, in the format:
 With one category per line. Examples:
 
   Europe: Pasta Shop, Tapas, Pub
+  
 or
+
   oven: baked ziti, pizza, roasted vegetables
